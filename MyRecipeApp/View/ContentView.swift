@@ -30,7 +30,7 @@ struct ContentView: View {
                     }
                 }
             }
-            .navigationTitle("My recipes")
+            .navigationTitle("All of my recipes")
         }
     }
 }
